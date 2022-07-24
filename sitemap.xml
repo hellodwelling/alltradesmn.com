@@ -2,3 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://alltradesmn.com/index</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/store</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/reviews</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/gallery-All</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/gallery-Drain-Work</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/gallery-Cleaning</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/gallery-Repairs-and-Installations</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Commercial-Bathroom-Repairs</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Commercial-Appliance-Installation</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Pressure-Washing</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-COVID-19-Disinfection</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Storefront-Board-up</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Drain-Unclogging-Service</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Carpet-Cleaning</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Roof-Repair</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Flooring-Installation</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://alltradesmn.com/service-Handyman-Work</loc>
+        <lastmod>2022-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
